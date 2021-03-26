@@ -15,7 +15,7 @@ These technologies are:
 
 Since our template uses the NuxtJS framework, you will find it useful to know [why one would want to use Nuxt](https://www.youtube.com/watch?v=7ITypVi-qRY)
 
-And since the Nuxt framework is built upon the vVueiew framework, you will also find it useful to know [why one would want to use Vue](https://www.youtube.com/watch?v=p1iLqZnZPdo)
+And since the Nuxt framework is built upon the Vue framework, you will also find it useful to know [why one would want to use Vue](https://www.youtube.com/watch?v=p1iLqZnZPdo)
 
 If you are familiar with CSS, you may be asking why we are using tailwind. This is a valid question, and the answer I found was within [this compelling talk by Sarah Dayan about the utility-first CSS approach](https://www.youtube.com/watch?v=R50q4NES6Iw)
 
