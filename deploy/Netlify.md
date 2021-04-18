@@ -12,7 +12,7 @@ Its features include:
 Here are few steps to follow for deploying your web application on Netlify.
 
 ### Step 1: Sign Up
-If you are new to netlify, go ahead and [Sign up](https://app.netlify.com/signup) with one of the following accounts:
+If you are new to netlify, go ahead and [Sign up](https://app.netlify.com/signup) with any of the following accounts:
 * Github
 * Gitlab
 * Bitbucket
