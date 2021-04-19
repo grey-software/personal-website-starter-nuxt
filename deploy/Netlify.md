@@ -60,9 +60,9 @@ After successfully deployment, we are interested to change the site name. One ne
 
 ![change name](https://i.imgur.com/QGG36GM.png)
 
-Click on <b>change site name</b> and give your own name but must be unique.
+Click on <b>change site name</b> and change your site name which must be unique.
 
-Finally you have deployed your first site with your own name. Here is the template we deployed following above 6 steps: 
+Finally, you have deployed your first site. Here is the template we deployed following above 6 steps: 
 
 [my-001-site.netlify.app](my-001-site.netlify.app)
 
